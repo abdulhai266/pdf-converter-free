@@ -1,0 +1,4 @@
+fastapi
+pdf2docx
+python-multipart
+uvicorn
